@@ -161,9 +161,9 @@ typora-copy-images-to: ./img
 
 ### 系统功能模块图
 
-![Untitled (2)](img/Untitled (2).png)
+![](img/admin_need.png)
 
-<img src="img/Untitled (1).png" alt="Untitled (1)" style="zoom: 15%;" />
+<img src="img/user_need.png" style="zoom:15%;" />
 
 
 
